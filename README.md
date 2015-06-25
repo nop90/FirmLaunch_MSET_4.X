@@ -1,4 +1,4 @@
-# PastaLaunch_MSET_4.X
+# FirmLaunch_MSET_4.X
 
 
 Launcher.dat to be run with MSET Hack  that makes a soft reboot of the 3DS after patching the sign check (only for FW 4.X 0ld3DS).
